@@ -1,0 +1,132 @@
+body{
+}
+
+#Title{
+    background-color: #000;
+    color: #fff;
+}
+
+#Service{
+    background-color: #000;
+    color:#fff;
+    text-align: center;
+}
+/* Nav-bar */
+
+.navbar{
+    background-color: #33fb05;
+}
+
+.logo{
+    width: 165.5;
+    margin: 10px 0 10px 20px ;
+}
+
+.nav-link{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+.nanami-img{
+    width: 100%;
+    padding-bottom: 5%;
+}
+
+.Title{
+    text-align: center;
+    padding: 0% 0% 3%;
+}
+
+.button-homepage{
+    padding: 10px;
+}
+/* Service */
+
+.service{
+    padding: 3% 0%;
+}
+
+.service-heading{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 3.5rem;
+    margin-bottom: 30px;
+}
+
+.anime-posters{
+    width: 370.3;
+    height: 500;
+    margin: 0% 15px 0 15px;
+}
+
+#width-image{
+    width: 320;
+}
+
+.service-heading{
+    padding-bottom: 3%;
+}
+
+.service-text{
+    padding-top: 50px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    margin: 5px 60px 0;
+}
+
+/* Pricing */
+
+#pricing{
+    background-color: #fff;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 20px;
+}
+
+#premium-plus-button{
+    background-color: #33fb05;
+    color: #000;
+}
+
+.pricing-heading{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+    font-size: 3.5rem;
+    margin: 20px 0 40px;
+}
+
+.card{    
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    margin: 0 15% 10% 15%;
+}
+
+.plan-type{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+.price{
+    font-size: 3.5rem;
+    margin-bottom: 20px;
+    font-weight: bolder;
+}
+
+/* footer */
+
+#footer{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.copyright{
+    background-color: #33fb05;
+    padding: 50px 0 50px 0;
+    font-size: 1rem;
+}
+
+.logo-copyright{
+    width: 165.5;
+    margin-right: 20px;
+    padding-bottom: 5px;
+}
